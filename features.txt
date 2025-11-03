@@ -1,0 +1,12 @@
+
+## Key Features:
+
+1. **Clean Code**: Well-structured, documented, and follows Python best practices
+2. **Efficient Algorithms**: 
+   - Problem 1: O(n) time with two passes
+   - Problem 2: O(m×n) time with BFS
+3. **Comprehensive Testing**: Covers edge cases and typical scenarios
+4. **Clear Documentation**: README explains approach, complexity, and usage
+5. **Robust Error Handling**: Handles empty inputs and edge cases appropriately
+
+Both solutions are production-ready and meet all specified requirements.
